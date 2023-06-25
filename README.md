@@ -36,6 +36,9 @@ npm install
 ```
 
 ## Uso
+
+Cambiar de nombre el archivo de `.env copy` a `.env`
+
 Inicia el servidor:
 ```bash
 npm start
